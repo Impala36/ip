@@ -123,7 +123,9 @@ Format: `bye`, `exit`, `<hit Enter>`
 
 ## Command Summary
 Action | Format, Examples
+
 ------------ | -------------
+
 **todo** | `todo <your task>` <br> e.g. `todo feed a dodo`
 **deadline**   | `deadline <your task> /by <dd/MM/yyyy HHmm>` <br> e.g. `deadline dead /by 28/09/2020 2359`
 **event**   | `event <your task> /at <dd/MM/yyyy HHmm> /to <HHmm>` <br> e.g. `event internal meeting /at 28/09/2020 0900 /to 1100`
