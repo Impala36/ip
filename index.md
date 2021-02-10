@@ -107,17 +107,16 @@ Prerequisites: JDK 11, update Intellij to the most recent version.
  Exits the program.
  
  Format: `bye`, `exit`, `<hit Enter>`
- 
- 
- ##Command Summary
+
+ ## Command Summary
  Action | Format, Examples
  ------------ | -------------
- **todo** | `todo <task>` <br> e.g. `todo feed a dodo`
- **deadline**   | `deadline <task> /by <dd/MM/yyyy HHmm>` <br> e.g. `deadline dead /by 28/09/2020 2359`
- **event**   | `event <task> /at <dd/MM/yyyy HHmm> /to <HHmm>` <br> e.g. `event internal meeting /at 28/09/2020 0900 /to 1100`
- **done**   | `done <index>` <br> e.g. `done 2`
- **delete**   | `delete <index>` <br> e.g. `delete 3`
- **list**   | `list`
- **find**   | `find <word>` <br> e.g. <br> `find deadline` <br> `find meeting` <br> `find 28 Sep` <br> `find D`
- **note**   | `note <index> <text>` <br> e.g. <br> `note 1 This is a note.` <br> `note 2 This note exists because it can.`
- **exit**   | `exit`
+ **todo**|`todo <task>` <br> e.g. `todo feed a dodo`
+ **deadline**|`deadline <task> /by <dd/MM/yyyy HHmm>` <br> e.g. `deadline dead /by 28/09/2020 2359`
+ **event**|`event <task> /at <dd/MM/yyyy HHmm> /to <HHmm>` <br> e.g. `event internal meeting /at 28/09/2020 0900 /to 1100`
+ **done**|`done <index>` <br> e.g. `done 2`
+ **delete**|`delete <index>` <br> e.g. `delete 3`
+ **list**|`list`
+ **find**|`find <word>` <br> e.g. <br> `find deadline` <br> `find meeting` <br> `find 28 Sep` <br> `find D`
+ **note**|`note <index> <text>` <br> e.g. <br> `note 1 This is a note.` <br> `note 2 This note exists because it can.`
+ **exit**|`exit`
